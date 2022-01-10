@@ -19,8 +19,8 @@ Simple AutoComplete Component where you can add your own Tags or pick from the l
 
 ```bash
 git clone https://github.com/Gasparuss/pokedex.git
-yarn
-yarn start
+yarn | npm i
+yarn start | npm start
 ```
 
 ## Live 📍

@@ -23,4 +23,8 @@ yarn
 yarn start
 ```
 
+## Live 📍
+
+<a href="https://gasparuss-pokedex.netlify.app/pokedex">https://gasparuss.github.io/autocomplete-recruitment-task/</a>
+
 
